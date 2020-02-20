@@ -1,0 +1,17 @@
+{
+  "name": "gl-matrix-typescript-reproduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/evertmonk/gl-matrix-typescript-reproduction.git",
+  "author": "Evert van der Horst <evert.van.der.horst@mediamonks.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc"
+  },
+  "dependencies": {
+    "gl-matrix": "^3.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
